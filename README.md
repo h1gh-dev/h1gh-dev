@@ -45,8 +45,4 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/h1gh-dev/h1gh-dev/output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
